@@ -2,7 +2,7 @@ Hi there 🦾
 
 - 🔭 I’m currently working on a Mars Rover Prototype
 - 🌱 I’m currently learning Embedded Machine Learning
-- 👯 I’m looking to collaborate on ROS based projects
+- 👯 I’m looking to collaborate on Anything
 - 💬 Ask me about Embedded Systems, Mechatronics
 - 📫 How to reach me: aryavartaworks@gmail.com
 - 😄 Pronouns: He/Him
